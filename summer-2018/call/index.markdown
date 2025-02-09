@@ -124,17 +124,17 @@ This is just a partial list, and we will be adding more equipment before the sta
 
 **Andrew McWilliams**  
 Director [Thoughtworks Arts Residency](https://thoughtworksarts.io)  
-Director [Art-A-Hack](https://artahack.io)  
+Director [Art-A-Hack](https://artahack.github.io)  
 President [Hardware Hack Lab](https://hardwarehacklab.io)  
 Web: [www.jahya.net](https://jahya.net/)  
-Contact: [andy@artahack.io](mailto:andy@artahack.io)
+Contact: [andy@jahya.net](mailto:andy@jahya.net)
 
 **Ellen Pearlman**  
 Director [Thoughtworks Arts Residency](https://thoughtworksarts.io)  
 [Fulbright World Learning Specialist](https://fulbrightspecialist.worldlearning.org) in Media, Art and Technology   
-President [Art-A-Hack](https://artahack.io)  
+President [Art-A-Hack](https://artahack.github.io)  
 Director, [Volumetric Society of New York](https://meetup.com/volumetric/)  
-Contact: [ellen@artahack.io](mailto:ellen@artahack.io)
+Contact: [ellen@volumetric.co](mailto:ellen@volumetric.co)
 
 <a href="http://www.citytech.cuny.edu/"><img src="/images/sponsors/city-tech.png" alt="NYC College of Technology, City Tech" style="max-width: 430px; margin-right: 30px;" /></a>
 <a href="https://www.humanimpactsinstitute.org/"><img src="/images/sponsors/human-impacts-institute.png" alt="Human Impacts Institute" style="max-width: 230px;" /></a>

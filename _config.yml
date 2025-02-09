@@ -1,8 +1,8 @@
-name: artahack.io
-url: 'https://artahack.io'
+name: Art-A-Hack
+url: 'https://artahack.github.io'
 author:
-  name: Art-A-Hack
-  email: info@artahack.io
+  name: Ellen Pearlman
+  email: ellen@volumetric.co
 
 display-banner: false
 banner-url: /summer-2021/call/
