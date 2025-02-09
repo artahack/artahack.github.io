@@ -1,17 +1,17 @@
 ---
 ---
 
-@import 'reset';
+@use 'reset';
 
-@import 'sitewide/base';
-@import 'pages/base';
+@use 'sitewide/sitewide-base';
+@use 'pages/pages-base';
 
-@import 'sitewide/header';
-@import 'sitewide/menu';
-@import 'sitewide/footer';
-@import 'sitewide/grid';
+@use 'sitewide/sitewide-header';
+@use 'sitewide/sitewide-menu';
+@use 'sitewide/sitewide-footer';
+@use 'sitewide/sitewide-grid';
 
-@import 'pages/home';
-@import 'pages/about';
-@import 'pages/project';
-@import 'pages/blog';
+@use 'pages/pages-home';
+@use 'pages/pages-about';
+@use 'pages/pages-project';
+@use 'pages/pages-blog';
