@@ -6,7 +6,7 @@ This site builds using [Jekyll](https://jekyllrb.com/) and is hosted on [Github 
 
 Use the site like any Jekyll site, for example to run the site locally:
 ```
-git clone https://github.com/artahack/artahack.github.io
+git clone git@github.com:artahack/artahack.github.io.git
 cd artahack.github.io
 bundle exec jekyll serve
 ```
