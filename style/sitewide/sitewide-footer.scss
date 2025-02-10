@@ -56,21 +56,16 @@ body {
 
 @media (max-width: 639px) {
 	body {
-		#sponsors {
-			ul li {
+		#sponsors ul {
+			li {
 				display: block;
 				line-height: 2em;
-			}
-		}
-	}
-}
 
-@media (max-width: 339px) {
-	body {
-		#sponsors ul {
-			li img {
-				width: 70%;
-				height: inherit;
+				img, img.small, img.large, img.vertical {
+					width: 70%;
+					height: inherit !important;
+					margin-top: 1em;
+				}
 			}
 
 			li.vertical img {
