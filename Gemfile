@@ -1,4 +1,4 @@
-ruby "3.4.1" # Sync this with jekyll.yml workflow
+ruby "3.4.7" # Sync this with jekyll.yml workflow
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4.1"
